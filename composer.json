@@ -4,7 +4,7 @@
     "description": "Smarty integration for Hirudo",
     "keywords": ["Hirudo", "smarty", "integration"],
     "homepage": "https://github.com/JeyDotC/hirudo-templating-smarty",
-    "license": "GNU/GPL",
+    "license": "GNU-GPL",
     "authors": [
         {"name": "Jeysson Jose Guevara Mendivil", "email": "jeydotc@gmail.com"}
     ],
